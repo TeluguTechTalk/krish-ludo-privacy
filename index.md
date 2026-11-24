@@ -8,7 +8,7 @@ Krish Ludo respects your privacy and is committed to protecting your information
 
 **Application Name:** Krish Ludo  
 **Package Name:** com.krish.ludogame  
-**Developer:** [Developer Name]
+**Developer:** Krishna
 
 ## 2. Information We Collect
 
